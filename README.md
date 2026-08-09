@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 80 entries, 29-day streak (last: 2026-08-09).*
+*Live, automated full-stack AI engineering micro-lessons. 81 entries, 29-day streak (last: 2026-08-09).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+ - 2026-08-09: [Stream LLM responses with an AbortController so the client can cancel mid-flight](entries/2026-08-09-slot1.md)
  - 2026-08-09: [Structured concurrency with task groups prevents leaked agent tasks](entries/2026-08-09-slot0.md)
  - 2026-08-08: [Version prompt templates and log the rendered prompt so evals can reproduce exact model inputs](entries/2026-08-08-slot1.md)
  - 2026-08-08: [Trace ID Propagation Across Async Boundaries](entries/2026-08-08-slot0.md)
