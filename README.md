@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 82 entries, 29-day streak (last: 2026-08-09).*
+*Live, automated full-stack AI engineering micro-lessons. 83 entries, 30-day streak (last: 2026-08-10).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+ - 2026-08-10: [Validate structured LLM output with a schema gate and retry on failure](entries/2026-08-10-slot0.md)
  - 2026-08-09: [Prompt versioning with git-style diffs catches regressions before deploy](entries/2026-08-09-slot2.md)
  - 2026-08-09: [Stream LLM responses with an AbortController so the client can cancel mid-flight](entries/2026-08-09-slot1.md)
  - 2026-08-09: [Structured concurrency with task groups prevents leaked agent tasks](entries/2026-08-09-slot0.md)
@@ -67,7 +68,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
   - 2026-07-28: [Optimistic UI Updates with Server Reconciliation for Chat](entries/2026-07-28-slot2.md)
   - 2026-07-28: [Use a Typed Tool Layer So Agents Never Guess a Schema](entries/2026-07-28-slot0.md)
   - 2026-07-27: [Prefill the Assistant Message to Steer JSON Output Reliably](entries/2026-07-27-slot2.md)
-  - 2026-07-27: [Stream partial tool-call results to the client instead of buffering everything](entries/2026-07-27-slot1.md)
+  - 2026-07-27: [Stream partial tool-call results to the client instead of buffering the full response](entries/2026-07-27-slot1.md)
   - 2026-07-27: [Register Tool Schemas at Startup and Validate Every Agent Call Against Them](entries/2026-07-27-slot0.md)
   - 2026-07-26: [Use a Request-Scoped Dedupe Cache for Identical In-Flight LLM Calls](entries/2026-07-26-slot2.md)
   - 2026-07-26: [Stream Tool-Call Results to the Client Instead of Buffering the Full Response](entries/2026-07-26-slot1.md)
