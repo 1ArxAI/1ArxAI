@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 83 entries, 30-day streak (last: 2026-08-10).*
+*Live, automated full-stack AI engineering micro-lessons. 84 entries, 30-day streak (last: 2026-08-10).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+ - 2026-08-10: [Set per-call LLM timeouts that respect your total request budget and fail fast on slow providers](entries/2026-08-10-slot1.md)
  - 2026-08-10: [Validate structured LLM output with a schema gate and retry on failure](entries/2026-08-10-slot0.md)
  - 2026-08-09: [Prompt versioning with git-style diffs catches regressions before deploy](entries/2026-08-09-slot2.md)
  - 2026-08-09: [Stream LLM responses with an AbortController so the client can cancel mid-flight](entries/2026-08-09-slot1.md)
