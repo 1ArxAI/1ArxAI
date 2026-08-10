@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 85 entries, 30-day streak (last: 2026-08-10).*
+*Live, automated full-stack AI engineering micro-lessons. 86 entries, 31-day streak (last: 2026-08-11).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+ - 2026-08-11: [Route each task to the smallest model that meets your quality threshold](entries/2026-08-11-slot0.md)
  - 2026-08-10: [Offload CPU-bound work in async agent loops to a dedicated thread pool](entries/2026-08-10-slot2.md)
  - 2026-08-10: [Set per-call LLM timeouts that respect your total request budget and fail fast on slow providers](entries/2026-08-10-slot1.md)
  - 2026-08-10: [Validate structured LLM output with a schema gate and retry on failure](entries/2026-08-10-slot0.md)
