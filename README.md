@@ -30,10 +30,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 ## Engineering Log
 
 <!-- STREAK -->
-*Live, automated full-stack AI engineering micro-lessons. 89 entries, 32-day streak (last: 2026-08-12).*
+*Live, automated full-stack AI engineering micro-lessons. 90 entries, 32-day streak (last: 2026-08-12).*
 <!-- /STREAK -->
 
 <!-- LOGS -->
+ - 2026-08-12: [Use a serializable plan object to separate agent reasoning from tool execution](entries/2026-08-12-slot2.md)
  - 2026-08-12: [Stream structured tool results to the client as typed events](entries/2026-08-12-slot1.md)
  - 2026-08-12: [Compile prompt templates into typed TypeScript functions](entries/2026-08-12-slot0.md)
  - 2026-08-11: [Avoid async context leakage by binding task-scoped data to the async call chain](entries/2026-08-11-slot1.md)
