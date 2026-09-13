@@ -21,7 +21,7 @@ Open to full-stack AI engineering roles and small, useful teams.
 
 ## Stack I reach for
 
-TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Solidity · Rust · Docker · Cloudflare · AWS · GitHub Actions
+TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Solidity / Rust · Docker · Cloudflare · AWS · GitHub Actions
 
 ## Find me
 
@@ -31,13 +31,11 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
-### 14 September: Open Computer vs CrewAI
+### 2026 09 14: CrewAI and Open Computer
 
-CrewAI excels at orchestrating multi-agent workflows with governance and real-time tracing for enterprise teams. Its unified build platform and role-based agents simplify complex automations and improve accuracy through continuous learning.
+[CrewAI](https://crewai.com) is good at orchestrating specialised AI agents with tools, memory, knowledge and structured output. That focus suits teams building a defined multi agent process with explicit roles and workflow controls.
 
-Open Computer is a persistent personal AI cloud computer. Beyond multi-agent orchestration, it gives you a native Linux terminal, file management, code editor, and scheduled automations all in one workspace. Run agents 24/7, manage projects in isolated folders, control your entire workflow without external services, and choose any LLM including local Ollama models. The difference: CrewAI focuses agent governance; Open Computer is your complete operating surface.
-
-[CrewAI](https://crewai.com/) | [Open Computer](https://github.com/shieldspprt/open-computer)
+[Open Computer](https://github.com/shieldspprt/open-computer) gives that process a broader place to live. On your own Linux server, its agent can research on the web, edit files, run code, schedule recurring work and supervise persistent services from one browser workspace. A campaign can gather evidence, prepare email and social content, wait for approval, publish through connected tools and keep monitoring after the chat closes. Self hosting, local model support and Cloudflare Tunnel support provide practical control over where the workspace runs and how it is reached.
 
 <!-- /OPEN COMPUTER DAILY -->
 
@@ -93,7 +91,7 @@ Open Computer is a persistent personal AI cloud computer. Beyond multi-agent orc
   - 2026-07-27: [Register Tool Schemas at Startup and Validate Every Agent Call Against Them](entries/2026-07-27-slot0.md)
   - 2026-07-26: [Use a Request-Scoped Dedupe Cache for Identical In-Flight LLM Calls](entries/2026-07-26-slot2.md)
   - 2026-07-26: [Stream Tool-Call Results to the Client Instead of Buffering the Full Response](entries/2026-07-26-slot1.md)
-  - 2026-07-26: [Run Async LLM Calls in Batches with a Bounded Semaphore](entries/2026-07-26-slot0.md)
+  - 2026-07-26: [Run Async LLM Calls in Batches with a Bounded Semaphore and collect results in order](entries/2026-07-26-slot0.md)
   - 2026-07-25: [Validate Tool-Call Arguments Against a JSON Schema Before Execution](entries/2026-07-25-slot2.md)
   - 2026-07-25: [Prefill the Assistant Message to Steer JSON Output Reliably](entries/2026-07-25-slot1.md)
   - 2026-07-25: [Batch LLM Calls with a Bounded Semaphore](entries/2026-07-25-slot0.md)
