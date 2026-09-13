@@ -21,11 +21,25 @@ Open to full-stack AI engineering roles and small, useful teams.
 
 ## Stack I reach for
 
-TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Solidity / Rust · Docker · Cloudflare · AWS · GitHub Actions
+TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Solidity · Rust · Docker · Cloudflare · AWS · GitHub Actions
 
 ## Find me
 
 - X: [@solhuntdev](https://x.com/solhuntdev)
+
+<!-- OPEN COMPUTER DAILY -->
+
+## Open Computer Daily
+
+### 14 September: Open Computer vs CrewAI
+
+CrewAI excels at orchestrating multi-agent workflows with governance and real-time tracing for enterprise teams. Its unified build platform and role-based agents simplify complex automations and improve accuracy through continuous learning.
+
+Open Computer is a persistent personal AI cloud computer. Beyond multi-agent orchestration, it gives you a native Linux terminal, file management, code editor, and scheduled automations all in one workspace. Run agents 24/7, manage projects in isolated folders, control your entire workflow without external services, and choose any LLM including local Ollama models. The difference: CrewAI focuses agent governance; Open Computer is your complete operating surface.
+
+[CrewAI](https://crewai.com/) | [Open Computer](https://github.com/shieldspprt/open-computer)
+
+<!-- /OPEN COMPUTER DAILY -->
 
 ## Engineering Log
 
