@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 18: Make and Open Computer
+
+[Make](https://www.make.com/en) is a capable visual workflow automation platform, letting teams connect apps and services through a drag and drop scenario builder, API management, and thousands of prebuilt integrations. That focus suits businesses automating SaaS triggers and data flows without writing code.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) gives that kind of automation a fuller operating base to run from. On your own Linux server, one browser workspace lets an agent draft and send outbound email, publish social content, and supervise the whole pipeline as a 24 hour background process, backed by a real terminal, file manager and code editor. Self hosting and Cloudflare Tunnel support keep credentials and data on infrastructure you control.
+
 ### 2026 09 17: Zapier and Open Computer
 
 [Zapier](https://zapier.com/) connects over 9000 apps and lets teams route AI agents, chatbots and workflows through one governed platform, with audit trails, action restrictions and role based access built for enterprise IT. That focus suits teams who want no code automation across existing SaaS tools without waiting on engineering.
