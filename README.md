@@ -31,6 +31,14 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 20: GitHub Actions and Open Computer
+
+[GitHub Actions](https://docs.github.com/actions) is good at automating, customising and executing software development workflows in a repository. Its focus is CI and CD, with reusable actions that combine into build, test and deployment pipelines.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that workflow. On your own Linux server, an agent can research a change, edit files in a real terminal, run tests, connect MCP tools, schedule recurring checks and supervise 24 hour processes after the browser session ends. Project folders preserve the work, while self hosting and Cloudflare Tunnel support give practical control over the workspace. For example, an agent can prepare a repository change, test it, schedule a daily report and retain the logs in one place.
+
+[Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 19: Docker and Open Computer
 
 [Docker](https://www.docker.com/) is good at building, sharing and running containerised applications. Its focus is packaging software with its dependencies so teams can develop and deploy consistently across environments.
@@ -128,7 +136,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
  - 2026-07-24: [Circuit Breaker for LLM Provider Failures](entries/2026-07-24-slot2.md)
  - 2026-07-24: [Structured Output Validation with Pydantic and Retry Logic](entries/2026-07-24-slot0.md)
  - 2026-07-23: [Rate limit LLM calls per user with a token bucket](entries/2026-07-23-slot2.md)
- - 2026-07-23: [Semantic caching cuts LLM costs for near duplicate prompts to cut RAG cost and retrieval noise](entries/2026-07-23-slot1.md)
+ - 2026-07-23: [Semantic caching cuts LLM costs for near duplicate prompts](entries/2026-07-23-slot1.md)
  - 2026-07-23: [Token budgets keep agent loops from spiraling](entries/2026-07-23-slot0.md)
  - 2026-07-22: [Validate structured LLM output with a strict schema before it reaches your database](entries/2026-07-22-slot1.md)
  - 2026-07-22: [Use a request scoped cache to deduplicate identical LLM calls within a single user request](entries/2026-07-22-slot0.md)
@@ -143,9 +151,9 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
  - 2026-07-18: [Cache your LLM responses at the edge to cut cost and latency](entries/2026-07-18_slot1.md)
  - 2026-07-17: [Design idempotent webhook handlers with a dedupe key](entries/2026-07-17_slot2.md)
  - 2026-07-17: [Backend idempotency keys stop duplicate writes under retry storms](entries/2026-07-17_slot1.md)
- - 2026-07-17: [Gzip your server sent event stream, or you pay 10x for tokens you never read](entries/2026-07-17_slot0.md)
- - 2026-07-16: [Cache LLM tool call schemas at the gateway, not per request](entries/2026-07-16_slot2.md)
- - 2026-07-16: [Backpressure saves your LLM service when a downstream API throttles you](entries/2026-07-16_slot1.md)
+ - 2026-07-17: [Gzip your server sent event stream, or you pay 10x for tokens you never read](entries/2026-07-17-slot0.md)
+ - 2026-07-16: [Cache LLM tool call schemas at the gateway, not per request](entries/2026-07-16-slot2.md)
+ - 2026-07-16: [Backpressure saves your LLM service when a downstream API throttles you](entries/2026-07-16-slot1.md)
  - 2026-07-16: [Colocate compute with data to avoid shipping rows you never render](entries/2026-07-16-slot0.md)
  - 2026-07-15: [A prompt cache turns repeat questions into instant, free hits](entries/2026-07-15-slot2.md)
  - 2026-07-15: [Constrain LLM output with a JSON schema instead of parsing prose](entries/2026-07-15-slot1.md)
