@@ -31,6 +31,14 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 22: Temporal and Open Computer
+
+[Temporal](https://temporal.io/) is good at durable execution for distributed applications. Its workflows capture state, while retries, task queues, signals and timers help code recover from failures and continue long running work. That focus suits teams building reliable orchestration into a product.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that orchestration. On a self hosted Linux server, an agent can research requirements, write and test code in a real terminal, connect MCP tools, schedule automations and supervise 24 hour processes. Project folders retain files and logs after the browser session ends. For example, an agent can build a Temporal worker, run its tests, schedule a health check and keep the supporting research in one workspace.
+
+[Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 21: GitHub Actions and Open Computer
 
 [GitHub Actions](https://docs.github.com/en/actions/get-started/understanding-github-actions) is good at automating build, test and deployment workflows inside a repository. Its event driven jobs, reusable actions and hosted or self hosted runners suit teams that want repeatable software delivery and repository operations.
