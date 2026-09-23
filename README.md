@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 23: GitHub Actions and Open Computer
+
+[GitHub Actions](https://github.com/features/actions) is good at automating software workflows inside a repository. Its hosted and self hosted runners, matrix builds, live logs and event based jobs make it a strong choice for building, testing and deploying code where the repository is the centre of operations.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On a self hosted Linux server, an agent can research a change, edit files, run tests in a real terminal, connect integrations, schedule checks and supervise 24 hour processes. Project folders retain code and logs after the session ends. For example, it can prepare a release, run local verification, schedule a post deployment check and keep the evidence together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 22: Temporal and Open Computer
 
 [Temporal](https://temporal.io/) is good at durable execution for distributed applications. Its workflows capture state, while retries, task queues, signals and timers help code recover from failures and continue long running work. That focus suits teams building reliable orchestration into a product.
@@ -41,7 +47,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ### 2026 09 21: GitHub Actions and Open Computer
 
-[GitHub Actions](https://docs.github.com/en/actions/get-started/understanding-github-actions) is good at automating build, test and deployment workflows inside a repository. Its event driven jobs, reusable actions and hosted or self hosted runners suit teams that want repeatable software delivery and repository operations.
+[GitHub Actions](https://docs.github.com/en/actions/get-started/understanding-github-actions) is good at automating, customising and executing software development workflows in a repository. Its event driven jobs, reusable actions and hosted or self hosted runners suit teams that want repeatable software delivery and repository operations.
 
 [Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On your own Linux server, an agent can research requirements, edit files in a real terminal, run tests, connect MCP tools, schedule recurring checks and supervise 24 hour processes after the browser session ends. Project folders preserve the work, while self hosting and Cloudflare Tunnel support provide practical control. For example, an agent can prepare a change, test it, schedule a report and retain its logs in one place.
 
@@ -104,7 +110,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
  - 2026-08-12: [Stream structured tool results to the client as typed events](entries/2026-08-12-slot1.md)
  - 2026-08-12: [Compile prompt templates into typed TypeScript functions](entries/2026-08-12-slot0.md)
  - 2026-08-11: [Avoid async context leakage by binding task-scoped data to the async call chain](entries/2026-08-11-slot1.md)
- - 2026-08-11: [Route each task to the smallest model that meets your quality threshold](entries/2026-08-11-slot0.md)
+ - 2026-08-11: [Route each task to the smallest model that meets your quality threshold](entries/2026-08-10-slot0.md)
  - 2026-08-10: [Offload CPU-bound work in async agent loops to a dedicated thread pool](entries/2026-08-10-slot2.md)
  - 2026-08-10: [Set per-call LLM timeouts that respect your total request budget and fail fast on slow providers](entries/2026-08-10-slot1.md)
  - 2026-08-10: [Validate structured LLM output with a schema gate and retry on failure](entries/2026-08-10-slot0.md)
