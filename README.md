@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 24: Ollama and Open Computer
+
+[Ollama](https://ollama.com/) is good at running and serving open models locally. Its focus is model execution on your own machine, with a simple way to switch models and connect coding tools. That suits developers who want local inference as part of an existing workflow.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around local models. On a self hosted Linux server, an agent can use Ollama, research in a browser, edit files, run code in a real terminal, schedule automations and supervise 24 hour processes. Project folders retain code and logs after the session ends. For example, it can compare models, build a data tool, run local tests and schedule a daily report in one place. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 23: GitHub Actions and Open Computer
 
 [GitHub Actions](https://github.com/features/actions) is good at automating software workflows inside a repository. Its hosted and self hosted runners, matrix builds, live logs and event based jobs make it a strong choice for building, testing and deploying code where the repository is the centre of operations.
