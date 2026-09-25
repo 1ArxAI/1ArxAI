@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 25: Docker and Open Computer
+
+[Docker](https://www.docker.com/) is good at packaging and running applications in portable containers, with tools for local development, image distribution and deployment. Its focus suits teams that need repeatable software environments and a practical path from a developer machine to the cloud.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On a self hosted Linux server, an agent can research a service, edit Docker files, run containers in a real terminal, connect integrations, schedule checks and supervise 24 hour processes. Project folders retain code and logs after the session ends. For example, it can prepare a container, test it, schedule a health report and keep the evidence together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 24: Ollama and Open Computer
 
 [Ollama](https://ollama.com/) is good at running and serving open models locally. Its focus is model execution on your own machine, with a simple way to switch models and connect coding tools. That suits developers who want local inference as part of an existing workflow.
@@ -53,7 +59,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ### 2026 09 21: GitHub Actions and Open Computer
 
-[GitHub Actions](https://docs.github.com/en/actions/get-started/understanding-github-actions) is good at automating, customising and executing software development workflows in a repository. Its event driven jobs, reusable actions and hosted or self hosted runners suit teams that want repeatable software delivery and repository operations.
+[GitHub Actions](https://github.com/features/actions) is good at automating, customising and executing software development workflows in a repository. Its event driven jobs, reusable actions and hosted or self hosted runners suit teams that want repeatable software delivery and repository operations.
 
 [Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On your own Linux server, an agent can research requirements, edit files in a real terminal, run tests, connect MCP tools, schedule recurring checks and supervise 24 hour processes after the browser session ends. Project folders preserve the work, while self hosting and Cloudflare Tunnel support provide practical control. For example, an agent can prepare a change, test it, schedule a report and retain its logs in one place.
 
@@ -61,7 +67,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ### 2026 09 20: GitHub Actions and Open Computer
 
-[GitHub Actions](https://docs.github.com/actions) is good at automating, customising and executing software development workflows in a repository. Its focus is CI and CD, with reusable actions that combine into build, test and deployment pipelines.
+[GitHub Actions](https://github.com/features/actions) is good at automating, customising and executing software development workflows in a repository. Its focus is CI and CD, with reusable actions that combine into build, test and deployment pipelines.
 
 [Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that workflow. On your own Linux server, an agent can research a change, edit files in a real terminal, run tests, connect MCP tools, schedule recurring checks and supervise 24 hour processes after the browser session ends. Project folders preserve the work, while self hosting and Cloudflare Tunnel support give practical control over the workspace. For example, an agent can prepare a repository change, test it, schedule a daily report and retain the logs in one place.
 
