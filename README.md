@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 26: Airflow and Open Computer
+
+[Apache Airflow](https://airflow.apache.org/) is good at programmatically authoring, scheduling and monitoring workflows. Its Python based pipelines, web interface and integrations suit data teams managing repeatable batch work, infrastructure tasks and machine learning pipelines.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On a self hosted Linux server, an agent can research requirements, write Airflow code in a file editor, test it in a real terminal, connect tools, schedule checks and supervise 24 hour processes. Project folders retain code, notes and logs after the session ends. For example, it can prepare a data pipeline, run local verification, schedule a report and keep the evidence together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 25: Docker and Open Computer
 
 [Docker](https://www.docker.com/) is good at packaging and running applications in portable containers, with tools for local development, image distribution and deployment. Its focus suits teams that need repeatable software environments and a practical path from a developer machine to the cloud.
