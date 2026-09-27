@@ -31,11 +31,17 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 27: systemd and Open Computer
+
+[systemd](https://systemd.io/) is good at acting as the system and service manager for Linux. It starts and maintains userspace services, supports socket and D Bus activation, tracks processes with control groups and manages dependencies. That focus suits operators who need dependable supervision of services on a Linux host.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that foundation. On a self hosted server, an agent can research a service, edit files, run commands in a real terminal, schedule automations and supervise 24 hour processes. Project folders retain code, logs and evidence after the session ends. For example, it can prepare a systemd unit, test it, schedule a health report and keep the work together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 26: Airflow and Open Computer
 
 [Apache Airflow](https://airflow.apache.org/) is good at programmatically authoring, scheduling and monitoring workflows. Its Python based pipelines, web interface and integrations suit data teams managing repeatable batch work, infrastructure tasks and machine learning pipelines.
 
-[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On a self hosted Linux server, an agent can research requirements, write Airflow code in a file editor, test it in a real terminal, connect tools, schedule checks and supervise 24 hour processes. Project folders retain code, notes and logs after the session ends. For example, it can prepare a data pipeline, run local verification, schedule a report and keep the evidence together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On a self hosted Linux server, an agent can research requirements, write Airflow code in a file editor, test it in a real terminal, connect tools, schedule checks and supervise 24 hour processes. Project folders retain code and logs after the session ends. For example, it can prepare a data pipeline, run local verification, schedule a report and keep the evidence together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
 
 ### 2026 09 25: Docker and Open Computer
 
@@ -107,7 +113,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 [LangChain](https://www.langchain.com) is a strong open source framework for building agents: any model provider, built in observability and evaluation, and tools to ship agents to production. That focus suits developers who want full control over an agent's own reasoning code.
 
-[Open Computer](https://github.com/shieldspprt/open-computer) gives that agent a persistent home to actually run in. Its own real Linux terminal, file editor, scheduled automations and supervised 24 hour background processes sit inside one browser workspace on your own server. A LangChain agent can be coded there, scheduled to check a task every morning, and left running with logs you can check from any browser. Self hosting and Cloudflare Tunnel support keep the credentials and the workspace under your control.
+[Open Computer](https://github.com/shieldspprt/open-computer) gives that agent a persistent home to actually run in. Its own real Linux terminal, file editor, scheduled automations and supervised 24 hour background processes sit inside one browser workspace on your own server. A LangChain agent can be coded there, scheduled to check a task every morning, and left running with logs you can check from any browser. Self hosting and Cloudflare Tunnel support keep the credentials and the workspace under your own control.
 
 ### 2026 09 14: CrewAI and Open Computer
 
