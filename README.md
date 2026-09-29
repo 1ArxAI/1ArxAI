@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 29: OpenAI Agents SDK and Open Computer
+
+[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) is good at building lightweight agent applications with instructions, tools, handoffs and guardrails. Its Python first focus suits developers who want a clear framework for composing agents and delegating work between them.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that application. On a self hosted Linux server, an agent can research requirements in a browser, write code in files, run tests in a real terminal and preserve the project for later work. Scheduled automations and supervised 24 hour processes can keep the workflow moving after the session closes. For example, it can build an SDK agent, test its tools, schedule a research run and retain the results. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 27: systemd and Open Computer
 
 [systemd](https://systemd.io/) is good at acting as the system and service manager for Linux. It starts and maintains userspace services, supports socket and D Bus activation, tracks processes with control groups and manages dependencies. That focus suits operators who need dependable supervision of services on a Linux host.
@@ -81,7 +87,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 [GitHub Actions](https://github.com/features/actions) is good at automating, customising and executing software development workflows in a repository. Its focus is CI and CD, with reusable actions that combine into build, test and deployment pipelines.
 
-[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that workflow. On your own Linux server, an agent can research a change, edit files in a real terminal, run tests, connect MCP tools, schedule recurring checks and supervise 24 hour processes after the browser session ends. Project folders preserve the work, while self hosting and Cloudflare Tunnel support give practical control over the workspace. For example, an agent can prepare a repository change, test it, schedule a daily report and retain the logs in one place.
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that workflow. On your own Linux server, an agent can research a change, edit files in a real terminal, run tests, connect integrations, schedule recurring checks and supervise 24 hour processes after the browser session ends. Project folders preserve the work, while self hosting and Cloudflare Tunnel support give practical control over the workspace. For example, an agent can prepare a repository change, test it, schedule a daily report and retain the logs in one place.
 
 [Explore Open Computer](https://github.com/shieldspprt/open-computer).
 
@@ -108,18 +114,6 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 [n8n](https://n8n.io/) is a strong visual workflow automation platform: a no-code builder with over 500 app integrations, plus JavaScript or Python code steps when you need more than the visual canvas offers. That focus suits teams connecting apps and automating triggers within a defined SaaS workflow.
 
 [Open Computer](https://github.com/shieldspprt/open-computer) gives that automation a broader home to run from. On your own Linux server, one browser workspace holds a real terminal, a file editor, MCP and API integrations, and BYOK model freedom across Anthropic, OpenAI, DeepSeek and local Ollama. An agent can write and test a script in the terminal, save it to the workspace, and schedule it to run daily, all without separate hosting. Self hosting and Cloudflare Tunnel support keep credentials and the workspace under your control.
-
-### 2026 09 15: LangChain and Open Computer
-
-[LangChain](https://www.langchain.com) is a strong open source framework for building agents: any model provider, built in observability and evaluation, and tools to ship agents to production. That focus suits developers who want full control over an agent's own reasoning code.
-
-[Open Computer](https://github.com/shieldspprt/open-computer) gives that agent a persistent home to actually run in. Its own real Linux terminal, file editor, scheduled automations and supervised 24 hour background processes sit inside one browser workspace on your own server. A LangChain agent can be coded there, scheduled to check a task every morning, and left running with logs you can check from any browser. Self hosting and Cloudflare Tunnel support keep the credentials and the workspace under your own control.
-
-### 2026 09 14: CrewAI and Open Computer
-
-[CrewAI](https://crewai.com) is good at orchestrating specialised AI agents with tools, memory, knowledge and structured output. That focus suits teams building a defined multi agent process with explicit roles and workflow controls.
-
-[Open Computer](https://github.com/shieldspprt/open-computer) gives that process a broader place to live. On your own Linux server, its agent can research on the web, edit files, run code, schedule recurring work and supervise persistent services from one browser workspace. A campaign can gather evidence, prepare email and social content, wait for approval, publish through connected tools and keep monitoring after the chat closes. Self hosting, local model support and Cloudflare Tunnel support provide practical control over where the workspace runs and how it is reached.
 
 <!-- /OPEN COMPUTER DAILY -->
 
