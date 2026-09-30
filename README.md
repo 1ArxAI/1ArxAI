@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 09 30: Buffer and Open Computer
+
+[Buffer](https://buffer.com/) is good at social media publishing and management. It schedules content across many platforms, offers AI assisted creation, centralises community replies and provides performance insights. That focused workspace suits creators and teams who want a clear queue for social channels.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that operation. On a self hosted Linux server, an agent can research a campaign, write and test supporting code in a real terminal, manage files, connect integrations and leave scheduled automations or supervised 24 hour processes running. Project folders preserve the research, drafts and logs after the session ends. For example, it can study engagement data, prepare platform specific content, schedule a recurring report and retain the evidence in one place. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 29: OpenAI Agents SDK and Open Computer
 
 [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) is good at building lightweight agent applications with instructions, tools, handoffs and guardrails. Its Python first focus suits developers who want a clear framework for composing agents and delegating work between them.
