@@ -31,6 +31,12 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 ## Open Computer Daily
 
+### 2026 11 20: Cloudflare Tunnel and Open Computer
+
+[Cloudflare Tunnel](https://developers.cloudflare.com/tunnel/) is good at connecting private services to Cloudflare without a publicly routable IP. Its outbound-only encrypted connection and support for mapping hostnames to internal services suit operators who want remote access without exposing an inbound port.
+
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that access layer. On a self hosted Linux server, an agent can research a system, edit files, use a real terminal, connect integrations, schedule automations and supervise 24 hour processes. Cloudflare Tunnel support can provide browser access while the project folders retain code, evidence and logs. For example, it can prepare a service, test its configuration, schedule a health check and keep the work together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+
 ### 2026 09 30: Buffer and Open Computer
 
 [Buffer](https://buffer.com/) is good at social media publishing and management. It schedules content across many platforms, offers AI assisted creation, centralises community replies and provides performance insights. That focused workspace suits creators and teams who want a clear queue for social channels.
@@ -71,7 +77,7 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 
 [GitHub Actions](https://github.com/features/actions) is good at automating software workflows inside a repository. Its hosted and self hosted runners, matrix builds, live logs and event based jobs make it a strong choice for building, testing and deploying code where the repository is the centre of operations.
 
-[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On a self hosted Linux server, an agent can research a change, edit files, run tests in a real terminal, connect integrations, schedule checks and supervise 24 hour processes. Project folders retain code and logs after the session ends. For example, it can prepare a release, run local verification, schedule a post deployment check and keep the evidence together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
+[Open Computer](https://github.com/shieldspprt/open-computer) provides a broader persistent workspace around that work. On a self hosted Linux server, an agent can research a change, edit files, run tests in a real terminal, connect integrations, schedule checks and supervise 24 hour processes. Project folders retain code and logs after the browser session ends. For example, it can prepare a release, run local verification, schedule a post deployment check and keep the evidence together. [Explore Open Computer](https://github.com/shieldspprt/open-computer).
 
 ### 2026 09 22: Temporal and Open Computer
 
@@ -108,18 +114,6 @@ TypeScript · React / Next.js · Bun / Node · Postgres / Prisma · Solana / Sol
 [Make](https://www.make.com/en) is a capable visual workflow automation platform, letting teams connect apps and services through a drag and drop scenario builder, API management, and thousands of prebuilt integrations. That focus suits businesses automating SaaS triggers and data flows without writing code.
 
 [Open Computer](https://github.com/shieldspprt/open-computer) gives that kind of automation a fuller operating base to run from. On your own Linux server, one browser workspace lets an agent draft and send outbound email, publish social content, and supervise the whole pipeline as a 24 hour background process, backed by a real terminal, file manager and code editor. Self hosting and Cloudflare Tunnel support keep credentials and data on infrastructure you control.
-
-### 2026 09 17: Zapier and Open Computer
-
-[Zapier](https://zapier.com/) connects over 9000 apps and lets teams route AI agents, chatbots and workflows through one governed platform, with audit trails, action restrictions and role based access built for enterprise IT. That focus suits teams who want no code automation across existing SaaS tools without waiting on engineering.
-
-[Open Computer](https://github.com/shieldspprt/open-computer) gives that same reach for automation a persistent home to run from. On your own Linux server, one browser workspace holds a real terminal, a file manager with a code editor, and 24 hour background daemons, so a script can be written, tested and left running without separate hosting. Self hosting and Cloudflare Tunnel support keep the workspace and its credentials under your own control.
-
-### 2026 09 16: n8n and Open Computer
-
-[n8n](https://n8n.io/) is a strong visual workflow automation platform: a no-code builder with over 500 app integrations, plus JavaScript or Python code steps when you need more than the visual canvas offers. That focus suits teams connecting apps and automating triggers within a defined SaaS workflow.
-
-[Open Computer](https://github.com/shieldspprt/open-computer) gives that automation a broader home to run from. On your own Linux server, one browser workspace holds a real terminal, a file editor, MCP and API integrations, and BYOK model freedom across Anthropic, OpenAI, DeepSeek and local Ollama. An agent can write and test a script in the terminal, save it to the workspace, and schedule it to run daily, all without separate hosting. Self hosting and Cloudflare Tunnel support keep credentials and the workspace under your control.
 
 <!-- /OPEN COMPUTER DAILY -->
 
